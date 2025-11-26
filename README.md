@@ -23,8 +23,7 @@ A modern real-time chat application built using the MERN stack, featuring live m
 - 👾 Real-time messaging using Socket.io  
 - 🚀 Online user presence and status updates  
 - 🐞 Error handling on both server and client  
-- 💬 Clean and responsive UI  
-- ⭐ Deployment like a pro — for **FREE**  
+- 💬 Clean and responsive UI    
 - ⏳ And much more!
 
 ---
