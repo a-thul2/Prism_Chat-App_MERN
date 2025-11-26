@@ -52,13 +52,13 @@ NODE_ENV=development
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/a-thul2/Prism_Chat-App_MERN.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd your-repo-name
+cd Prism_Chat-App_MERN
 ```
 
 3. Install dependencies:
